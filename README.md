@@ -25,7 +25,7 @@ Or (not available yet)
 docker pull mivinci/mc
 ```
 
-Or [download](https://github.com/Mivinci/mc/releases/tag/v1.0.0) the pre-build version for macOS or Windows.
+Or [download](https://github.com/Mivinci/mc/tags) the pre-build version for macOS or Windows.
 
 ### Run
 
